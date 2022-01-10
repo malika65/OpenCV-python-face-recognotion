@@ -56,4 +56,4 @@ Know run faces.py and see how it recognize and identify your face
 python faces.py
 ```
 ## Screenshots
-![Alt text](https://imgur.com/zpUoeyX)
+[Imgur](https://imgur.com/zpUoeyX)
